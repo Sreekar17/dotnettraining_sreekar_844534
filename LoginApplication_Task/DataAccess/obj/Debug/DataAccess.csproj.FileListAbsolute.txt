@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Admin\source\repos\LoginApplication_Task\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
