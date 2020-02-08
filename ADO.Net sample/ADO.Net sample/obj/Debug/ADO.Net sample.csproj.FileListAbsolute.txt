@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\bin\Debug\ADO.Net sample.exe.config
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\bin\Debug\ADO.Net sample.exe
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\bin\Debug\ADO.Net sample.pdb
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\obj\Debug\ADO.Net sample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\obj\Debug\ADO.Net sample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\obj\Debug\ADO.Net sample.exe
+C:\Users\Admin\source\repos\ADO.Net sample\ADO.Net sample\obj\Debug\ADO.Net sample.pdb
