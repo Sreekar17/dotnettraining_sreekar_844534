@@ -1,0 +1,82 @@
+<html>
+<head>
+</head>
+<body>
+<form method="post" action="sample1jj.html" onsubmit=" return validateData();">
+firstname : <input type="text" id="un" />
+<br />
+age : <input type="number" id="pok" min="16" max="60"  />
+<br /> 
+login name: <input type="text" id="bn"  />
+<br /> 
+Password : <input type = "Password" id="pwd" />
+<br />
+ConfirmPassword : <input type = "Password" id="cpwd" />
+<br />
+Experience : <input type="varchar(10)" id="as" />
+<br />
+salary : <input type="varchar(30)" id="sal" />
+<br />
+<input type ="submit" value="Add new User" />
+<input type ="submit" value="Cancel" />
+<br />
+<p> Subscribe to news letter </p>
+Email : <input type="email" id="Eml" />
+<input type ="submit" value="Subscribe" />
+<br />
+<p> Errors on page </p>
+<ul>
+<li> Errror message1 </li>
+<li> Errror message2 </li>
+</ul>
+</form >
+<script type="text/javascript">
+function validateData() {
+var fnstr = document.getElementById("un").value;
+var agvarchar = document.getElementById("pok").value;
+var lnmestr= document.getElementById("bn").value;
+var pwvarchar =document.getElementById("pwd").value;
+var cpwvarchar =document.getElementById("cpwd").value;
+var expvarchar =document.getElementById("as").value;
+var salvarchar =document.getElementById("sal").value;
+var emlvarchar=document.getElementById("Eml").value;
+var flag=true;
+if(fnstr.length == 0){
+alert("first name is must");
+flag=false;
+}
+if(agvarchar.length == 0) {
+alert("age is must");
+flag=false;
+}
+if(lnmestr.length == 0){
+alert("login name  is must");
+flag=false;
+}
+if(pwvarchar.length == 0){
+alert("password is must");
+flag=false;
+}
+if(cpwvarchar.length == 0){
+alert("confirm password is must");
+flag=false;
+}
+if(pwvarchar != cpwvarchar){
+alert("")
+if(expvarchar.length == 0){
+alert("experience is must");
+flag=false;
+}
+if(salvarchar.length == 0){
+alert("salary is must");
+flag=false;
+}
+if(emlvarchar.length == 0){
+alert("emailid is must");
+flag=false;
+}
+return flag;
+}
+</script >
+</body>
+ </html>

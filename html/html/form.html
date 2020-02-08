@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<form method="post" onsubmit="validateData();">
+Username : <input type="text" id="un" />
+<br />
+Password : <input type = "Password" id="pwd" />
+<br />
+<input type ="submit" value="Login User" />
+
+</form >
+<script type="text/javascript">
+function validateData() {
+var Unstr = document.getElementById("un").value;
+var pwstr = document.getElementById("pwd").value;
+if(Unstr.length == 0){
+alert("User name is must");
+}
+if(pwstr.length == 0) {
+alert("Password is must");
+
+}
+}
+
+
+</script >
+</body>
+ </html>

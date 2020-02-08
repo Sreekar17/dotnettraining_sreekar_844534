@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+<body>
+<p>
+this is my 1st para
+</p>
+<p>
+this is my 2nd para
+</P>
+</body>
+</html>
